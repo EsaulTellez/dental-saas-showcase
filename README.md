@@ -61,4 +61,20 @@ El proyecto está construido bajo una arquitectura moderna sin servidor (Serverl
 
 ---
 
-*Desarrollado con pasión por mejorar el ecosistema de salud digital.*
+
+### 📊 Dashboard & Intelligent Agenda
+
+<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/93dd8053-6463-4a22-9717-b437c9d5a93b" />   
+<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/9c04baea-8145-4873-8227-3e2712b50c3f" />
+
+### 🦷 Interactive Odontogram
+<img width="1915" height="1035" alt="image" src="https://github.com/user-attachments/assets/5a4df028-4351-4909-ab3f-deefe09faca5" />
+
+### 🤖 WhatsApp Automation in Action
+<div align="center">
+  <img width="1229" height="738" alt="image" src="https://github.com/user-attachments/assets/239450ef-56be-4209-97a3-e9d0b5585e3e" />
+
+
+  <img width="1918" height="1143" alt="image" src="https://github.com/user-attachments/assets/d9dada3e-0cbd-4ee1-b85f-1b492a2b7cc2" />
+
+</div>
