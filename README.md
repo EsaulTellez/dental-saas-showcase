@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀Sobre el Proyecto
+## Sobre el Proyecto
 
 **Dental SaaS** es una plataforma integral diseñada específicamente para modernizar y optimizar la operación de clínicas dentales. Su objetivo principal es resolver uno de los mayores problemas en el sector salud: **las inasistencias de pacientes **, al mismo tiempo que proporciona herramientas clínicas avanzadas para los odontólogos.
 
