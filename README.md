@@ -1,4 +1,4 @@
-# 🦷 Dental SaaS - Plataforma de Gestión Clínica y Automatización
+# 🦷 Dentisly- Plataforma de Gestión Clínica y Automatización
 
 > **Nota de Privacidad:** Por motivos de protección de Propiedad Intelectual y seguridad, el código fuente completo de este SaaS comercial se mantiene en un **repositorio privado**. Este repositorio funciona como un showcase para demostrar una parte del proyecto
 
@@ -17,16 +17,16 @@
 
 ##  Stack Tecnológico (Arquitectura Serverless / BaaS)
 
-El proyecto está construido bajo una arquitectura moderna sin servidor (Serverless), garantizando alta disponibilidad, seguridad y escalabilidad a bajo costo.
+El proyecto está construido bajo una arquitectura moderna sin servidor , garantizando alta disponibilidad, seguridad y escalabilidad a bajo costo.
 
-*   **Frontend:** React 19, Vite, TailwindCSS (UI Moderna y responsiva).
+*   **Frontend:** React 19, Vite, TailwindCSS 
 *   **Base de Datos & Backend (BaaS):** Supabase 
-*   **Motor Lógico y Automatización:** n8n (Node Based Automation).
+*   **Motor Lógico y Automatización:** n8n 
 *   **Integraciones de Terceros:** Meta Cloud API (WhatsApp Business).
 
 ---
 
-##  Características Principales (Features)
+##  Características Principales
 
 ### 1. Agenda Inteligente en Tiempo Real
 *   Calendario interactivo con código de colores según el estado de la cita (Confirmada, En sala de espera, Cancelada).
@@ -51,21 +51,21 @@ El proyecto está construido bajo una arquitectura moderna sin servidor (Serverl
 
 1.  **Seguridad en Webhooks de WhatsApp:** 
     Implementación de tokens criptográficos en los enlaces de reprogramación enviados por WhatsApp para evitar que usuarios malintencionados modifiquen citas de otros pacientes.
-2.  **UI/UX Premium:** 
-    Construir una interfaz limpia, sin distracciones, utilizando principios de "Glassmorphism" y micro-interacciones para reducir la curva de aprendizaje del personal de la clínica.
+2.  **UI/UX :** 
+    Construir una interfaz limpia, sin distracciones, utilizando  micro-interacciones para reducir la curva de aprendizaje del personal de la clínica.
 
 ---
 
 
-### 📊 Dashboard & Intelligent Agenda
+### 📊 Dashboard & Agenda
 
 <img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/93dd8053-6463-4a22-9717-b437c9d5a93b" />   
 <img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/9c04baea-8145-4873-8227-3e2712b50c3f" />
 
-### 🦷 Interactive Odontogram
+### 🦷 Odontograma Interactivo
 <img width="1915" height="1035" alt="image" src="https://github.com/user-attachments/assets/5a4df028-4351-4909-ab3f-deefe09faca5" />
 
-### 🤖 WhatsApp Automation in Action
+### 🤖 Automatización de Whatsapp en acción
 <div align="center">
   <img width="1229" height="738" alt="image" src="https://github.com/user-attachments/assets/239450ef-56be-4209-97a3-e9d0b5585e3e" />
 
